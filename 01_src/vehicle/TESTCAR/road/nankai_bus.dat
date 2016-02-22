@@ -1,0 +1,30 @@
+#----------------------------------
+#　　   nankai_bus.dat
+#　　　
+#  　　　　南海バス
+#
+#----------------------------------
+
+obj=vehicle
+name=Nankai_bus
+waytype=Road
+freight=Passagiere
+speed=80
+payload=72
+cost=300000
+weight=8
+Power=1720
+runningcost=12
+Sound=1
+intro_year=1900
+intro_month=1
+Constraint[Prev][0]=none
+Constraint[Next][0]=none
+EmptyImage[S]=nankai_bus.0.0
+EmptyImage[N]=nankai_bus.0.1
+EmptyImage[E]=nankai_bus.0.2
+EmptyImage[W]=nankai_bus.0.3
+EmptyImage[SE]=nankai_bus.0.4
+EmptyImage[NW]=nankai_bus.0.5
+EmptyImage[NE]=nankai_bus.0.6
+EmptyImage[SW]=nankai_bus.0.7

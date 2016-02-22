@@ -1,0 +1,15 @@
+Obj=building
+name=supermarket_m
+intro_year=1952
+retire_year=2100
+copyright=713
+Type=cur
+Passengers=2
+Build_Time=5000
+Chance=50
+Dims=2,2,1
+BackImage[0][0][0][0][0]=maruetsu.0.0
+BackImage[0][0][1][0][0]=maruetsu.0.1
+BackImage[0][1][0][0][0]=maruetsu.1.0
+BackImage[0][1][1][0][0]=maruetsu.1.1
+--------------------

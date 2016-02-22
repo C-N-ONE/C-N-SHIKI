@@ -1,0 +1,18 @@
+obj=crossing
+name=cr_kaz_0_track-road
+copyright=Kazuhiko Goto
+waytype[0]=road
+waytype[1]=track
+speed[0]=40
+speed[1]=130
+#sound=crossing.wav
+#draw_as_ding=1
+openimage[ns][0]=cr_0_opn.0.1,-64,-64
+front_openimage[ns][0]=cr_0_opn_f.0.1,-64,-64
+closedimage[ns][0]=cr_0_cls.0.1,-64,-64
+front_closedimage[ns][0]=cr_0_cls_f.0.1,-64,-64
+openimage[ew][0]=cr_0_opn.0.0,-64,-64
+front_openimage[ew][0]=cr_0_opn_f.0.0,-64,-64
+closedimage[ew][0]=cr_0_cls.0.0,-64,-64
+front_closedimage[ew][0]=cr_0_cls_f.0.0,-64,-64
+---

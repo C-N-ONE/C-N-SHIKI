@@ -1,0 +1,6 @@
+Obj=ground
+Name=Outside
+# hangtyp * animation
+#water outside
+copyright=PAK128.ZIPANG  for Simutrans120.0
+Image[0][0]=outside.0.0

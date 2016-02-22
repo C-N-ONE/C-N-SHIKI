@@ -1,0 +1,58 @@
+Obj=building
+Name=kaz_BusStop_NB_BASE
+copyright=Kazuhiko Goto
+#intro_year=1001
+NoInfo=1
+Dims=1,1,2
+Type=stop
+enables_pax=1
+enables_post=1
+level=4
+waytype=road
+icon=> i_kaz_BusStop_B_base.0.0
+cursor=c_kaz_road.0.0
+#
+BackImage[0][0][0][0][0]=BusStop_BASE.0.2
+FrontImage[0][0][0][0][0]=-
+BackImage[1][0][0][0][0]=BusStop_BASE.0.3
+FrontImage[1][0][0][0][0]=-
+#
+------------------------------------------------------------------
+Obj=building
+Name=kaz_BusStop_NF_BASE
+copyright=Kazuhiko Goto
+#intro_year=1001
+NoInfo=1
+Dims=1,1,2
+Type=stop
+enables_pax=1
+enables_post=1
+level=4
+waytype=road
+icon=> i_kaz_BusStop_F_base.0.0
+cursor=c_kaz_road.0.0
+#
+BackImage[0][0][0][0][0]=-
+FrontImage[0][0][0][0][0]=BusStop_BASE.0.0
+BackImage[1][0][0][0][0]=-
+FrontImage[1][0][0][0][0]=BusStop_BASE.0.1
+#
+------------------------------------------------------------------
+Obj=building
+Name=kaz_BusStop_NFB_BASE
+copyright=Kazuhiko Goto
+#intro_year=1001
+NoInfo=1
+Dims=1,1,2
+Type=stop
+enables_pax=1
+enables_post=1
+level=4
+waytype=road
+icon=> i_kaz_BusStop_FB_base.0.0
+cursor=c_kaz_road.0.0
+#
+BackImage[0][0][0][0][0]=BusStop_BASE.0.2
+FrontImage[0][0][0][0][0]=BusStop_BASE.0.0
+BackImage[1][0][0][0][0]=BusStop_BASE.0.3
+FrontImage[1][0][0][0][0]=BusStop_BASE.0.1

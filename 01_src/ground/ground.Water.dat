@@ -1,0 +1,8 @@
+Name=Water
+Obj=ground
+copyright=Kazuhiko Goto
+# hangtyp * animation
+Image[0][0]=water_base.0.0
+Image[1][0]=water_base.0.1
+Image[2][0]=water_base.0.2
+Image[3][0]=water_base.0.3

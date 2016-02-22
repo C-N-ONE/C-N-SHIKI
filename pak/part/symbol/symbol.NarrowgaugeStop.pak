@@ -1,0 +1,25 @@
+diff -crN simutrans/simgraph.h 65534over/simgraph.h
+*** simgraph.h	2014-04-28 05:33:51.000000000 +0900
+--- simgraph.h	2014-06-18 00:46:31.157229100 +0900
+***************
+*** 152,158 ****
+   */
+  bool display_load_font(const char* fname);
+  
+! uint16 get_image_count();
+  void register_image(struct bild_t*);
+  
+  // delete all images above a certain number ...
+--- 152,158 ----
+   */
+  bool display_load_font(const char* fname);
+  
+! uint32 get_image_count();
+  void register_image(struct bild_t*);
+  
+  // delete all images above a certain number ...
+diff -crN simutrans/simgraph16.cc 65534over/simgraph16.cc
+*** simgraph16.cc	2014-04-28 05:33:55.000000000 +0900
+--- simgraph16.cc	2014-06-18 00:46:02.323826700 +0900
+***************
+*** 1139,1145 

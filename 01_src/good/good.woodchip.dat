@@ -1,0 +1,8 @@
+obj=good
+name=woodchip
+copyright=none
+metric=tonnen
+catg=0
+value=63
+speed_bonus=1
+weight_per_unit=1000

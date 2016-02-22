@@ -1,0 +1,21 @@
+Name=ClimateTexture
+Obj=ground
+copyright=Kazuhiko Goto
+#
+#water
+Image[0][0]=Water.0.0
+#beach/desert
+Image[1][0]=Beach.0.0
+#tropic (uses standard grass)
+Image[2][0]=Tropic.0.0
+#mediterran (uses standard grass)
+Image[3][0]=Mediterran.0.0
+#temperate grass
+Image[4][0]=Temperate.0.0
+#tundra
+Image[5][0]=Tundra.0.0
+#rocky/barren
+Image[6][0]=Barren.0.0
+#snow
+Image[7][0]=Snow.0.0
+Image[8][0]=Beach.0.0

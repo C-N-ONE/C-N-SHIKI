@@ -1,0 +1,54 @@
+##############################
+#
+Jp_Semaphore_signal
+腕木式信号機 1閉塞用
+Jp_Semaphore_presignal
+腕木式信号機 2閉塞用(presignal)
+Jp_Semaphore_choosesignal
+腕木式場内信号機(choosesignal)
+Jp_Semaphore_longblocksignal
+腕木式信号機 長距離閉塞用(longblocksignal)
+##############################
+#
+Jp_Onetype_signal
+単灯式信号機 1閉塞用
+Jp_Onetype_presignal
+単灯式信号機 2閉塞用(presignal)
+Jp_Onetype_choosesignal
+単灯式場内信号機(choosesignal)
+Jp_Onetype_longblocksignal
+単灯式信号機 長距離閉塞用(longblocksignal)
+##############################
+#
+Jp_Twotype_signal
+二灯式信号機 1閉塞用
+Jp_Twotype_presignal
+二灯式信号機 2閉塞用(presignal)
+Jp_Twotype_choosesignal
+二灯式場内信号機(choosesignal)
+Jp_Twotype_longblocksignal
+二灯式信号機 長距離閉塞用(longblocksignal)
+##############################
+#
+Jp_Threetype_signal
+三灯式信号機 1閉塞用
+Jp_Threetype_presignal
+三灯式信号機 2閉塞用(presignal)
+Jp_Threetype_choosesignal
+三灯式場内信号機(choosesignal)
+Jp_Threetype_longblocksignal
+三灯式信号機 長距離閉塞用(longblocksignal)
+##############################
+#
+Jp_tram_signal
+路面軌道用信号機 1閉塞用
+Jp_tram_presignal
+路面軌道用信号機 2閉塞用(presignal)
+Jp_tram_choosesignal
+路面軌道用場内信号機(choosesignal)
+Jp_tram_longblocksignal
+路面軌道用信号機 長距離閉塞用(longblocksignal)
+##############################
+#
+Jp_end_of_choose
+列車停止標識

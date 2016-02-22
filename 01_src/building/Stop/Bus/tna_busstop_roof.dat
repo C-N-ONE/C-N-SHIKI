@@ -1,0 +1,101 @@
+#
+#	屋根付き停留所
+#	Busstop with roof
+#		yoshi氏の「屋根付きプラットフォーム」を改造しました。
+#		remodeled a platform with the roof of Mr. yoshi.
+#
+
+#片面(One side)
+Obj=building
+Name=tna_busstop_roof_1
+copyright=T-Na/The author of original image: yoshi
+
+intro_year=1001
+NoInfo=1
+
+Dims=1,1,16
+Type=stop
+enables_pax=1
+enables_post=1
+level=4
+waytype=road
+icon=> tna_busstop_roof.4.0
+cursor=tna_busstop_roof.4.1
+
+BackImage[0][0][0][0][0]=tna_busstop_roof.0.0
+FrontImage[0][0][0][0][0]=-
+BackImage[2][0][0][0][0]=tna_busstop_roof.1.0
+FrontImage[2][0][0][0][0]=-
+BackImage[4][0][0][0][0]=tna_busstop_roof.2.0
+FrontImage[4][0][0][0][0]=-
+BackImage[6][0][0][0][0]=tna_busstop_roof.3.0
+FrontImage[6][0][0][0][0]=-
+
+BackImage[1][0][0][0][0]=tna_busstop_roof.0.1
+FrontImage[1][0][0][0][0]=-
+BackImage[3][0][0][0][0]=tna_busstop_roof.1.1
+FrontImage[3][0][0][0][0]=-
+BackImage[5][0][0][0][0]=tna_busstop_roof.2.1
+FrontImage[5][0][0][0][0]=-
+BackImage[7][0][0][0][0]=tna_busstop_roof.3.1
+FrontImage[7][0][0][0][0]=-
+
+BackImage[8][0][0][0][0]=-
+FrontImage[8][0][0][0][0]=tna_busstop_roof.0.2
+BackImage[10][0][0][0][0]=-
+FrontImage[10][0][0][0][0]=tna_busstop_roof.1.2
+BackImage[12][0][0][0][0]=-
+FrontImage[12][0][0][0][0]=tna_busstop_roof.2.2
+BackImage[14][0][0][0][0]=-
+FrontImage[14][0][0][0][0]=tna_busstop_roof.3.2
+
+BackImage[9][0][0][0][0]=-
+FrontImage[9][0][0][0][0]=tna_busstop_roof.0.3
+BackImage[11][0][0][0][0]=-
+FrontImage[11][0][0][0][0]=tna_busstop_roof.1.3
+BackImage[13][0][0][0][0]=-
+FrontImage[13][0][0][0][0]=tna_busstop_roof.2.3
+BackImage[15][0][0][0][0]=-
+FrontImage[15][0][0][0][0]=tna_busstop_roof.3.3
+----------------------------------------------
+
+#両面(Both sides)
+Obj=building
+Name=tna_busstop_roof_2
+copyright=T-Na/Yoshi
+
+intro_year=1001
+NoInfo=1
+
+Dims=1,1,8
+Type=stop
+enables_pax=1
+enables_post=1
+level=4
+waytype=road
+icon=> tna_busstop_roof.4.2
+cursor=tna_busstop_roof.4.3
+
+BackImage[0][0][0][0][0]=tna_busstop_roof.0.0
+FrontImage[0][0][0][0][0]=tna_busstop_roof.0.2
+
+BackImage[1][0][0][0][0]=tna_busstop_roof.0.1
+FrontImage[1][0][0][0][0]=tna_busstop_roof.0.3
+
+BackImage[2][0][0][0][0]=tna_busstop_roof.1.0
+FrontImage[2][0][0][0][0]=tna_busstop_roof.1.2
+
+BackImage[3][0][0][0][0]=tna_busstop_roof.1.1
+FrontImage[3][0][0][0][0]=tna_busstop_roof.1.3
+
+BackImage[4][0][0][0][0]=tna_busstop_roof.2.0
+FrontImage[4][0][0][0][0]=tna_busstop_roof.2.2
+
+BackImage[5][0][0][0][0]=tna_busstop_roof.2.1
+FrontImage[5][0][0][0][0]=tna_busstop_roof.2.3
+
+BackImage[6][0][0][0][0]=tna_busstop_roof.3.0
+FrontImage[6][0][0][0][0]=tna_busstop_roof.3.2
+
+BackImage[7][0][0][0][0]=tna_busstop_roof.3.1
+FrontImage[7][0][0][0][0]=tna_busstop_roof.3.3

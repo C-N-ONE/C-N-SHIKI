@@ -1,0 +1,23 @@
+# these images define the beach transition
+Obj=ground
+Name=ShoreTrans
+Image[0][0]=texture-shore.0.0	#直線
+Image[1][0]=texture-shore.0.1	#内角
+Image[2][0]=texture-shore.0.2	#外角
+Image[3][0]=texture-shore.0.3	#未使用?
+Image[4][0]=-
+Image[5][0]=-
+Image[6][0]=-
+Image[7][0]=-
+Image[8][0]=-
+Image[9][0]=-
+Image[10][0]=-
+Image[11][0]=texture-shore.1.0	#未使用?
+#Image[4][0]=texture-shore.1.0	#未使用?
+#Image[5][0]=texture-shore.1.1	#未使用?
+#Image[6][0]=texture-shore.1.2	#未使用?
+#Image[7][0]=texture-shore.1.3	#未使用?
+#Image[8][0]=texture-shore.2.0	#未使用?
+#Image[9][0]=texture-shore.2.1	#未使用?
+#Image[10][0]=texture-shore.2.2	#未使用?
+#Image[11][0]=texture-shore.2.3	#未使用?

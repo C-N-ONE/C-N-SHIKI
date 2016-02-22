@@ -1,0 +1,14 @@
+Obj=menu
+name=SimpleTools
+copyright=Kaz_Train
+Image[0]=> menu_buttons_japan_SimpleTools.0.1	#一時停止、ポーズ（経営）
+Image[1]=> menu_buttons_japan_SimpleTools.0.2	#早送り（経営）
+Image[2]=> menu_buttons_japan_SimpleTools.0.3	#スクリーンショットを撮る（経営）
+Image[3]=> menu_buttons_japan_SimpleTools.0.4	#産業チェーンを追加（マップ編集）
+Image[4]=> menu_buttons_japan_SimpleTools.0.5	#アンドゥ（？）
+Image[5]=> menu_buttons_japan_SimpleTools.0.6	#プレイヤー変更（マップ編集）
+Image[6]=> menu_buttons_japan_SimpleTools.0.7	#1年進める（マップ編集）
+Image[7]=> menu_buttons_japan_SimpleTools.0.8	#ズームイン（経営）
+Image[8]=> menu_buttons_japan_SimpleTools.0.9	#ズームアウト（経営）
+Image[9]=> menu_buttons_japan_SimpleTools.0.10	#グリッドを表示・非表示（経営）
+Image[10]=> menu_buttons_japan_SimpleTools.0.11	#マップ回転（経営）

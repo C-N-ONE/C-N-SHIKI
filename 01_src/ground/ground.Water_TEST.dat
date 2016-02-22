@@ -1,0 +1,7 @@
+Obj=ground
+Name=Water
+# hangtyp * animation
+Image[0][0]=ls-water-128_TEST.0.0
+Image[1][0]=ls-water-128_TEST.0.1
+Image[2][0]=ls-water-128_TEST.0.2
+Image[3][0]=ls-water-128_TEST.0.3

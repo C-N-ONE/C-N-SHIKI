@@ -1,0 +1,49 @@
+Obj=factory
+name=newsupermarket
+Location=City
+
+#needed productivity in tones  : 400
+#size                          : 2x2 = 4
+#average productivity per tile : 12,2
+
+DistributionWeight=2
+Productivity=10
+Range=1
+pax_level=100
+Copyright=Napik & Patrick & James Starr
+
+InputGood[0]=hakumai3
+InputCapacity[0]=100
+InputSupplier[0]=1
+InputFactor[0]=100
+
+InputGood[1]=sake3
+InputCapacity[1]=30
+InputSupplier[1]=1
+InputFactor[1]=20
+
+InputGood[2]=bento12
+InputCapacity[2]=100
+InputSupplier[2]=1
+InputFactor[2]=100
+
+InputGood[3]=vegetableB3
+InputCapacity[3]=100
+InputSupplier[3]=1
+InputFactor[3]=100
+
+InputGood[4]=household_goods3
+InputCapacity[4]=200
+InputSupplier[4]=1
+InputFactor[4]=30
+
+
+MapColor=101
+Dims=2,2
+
+BackImage[0][0][0][0][0]=newsupermarket.0.0
+BackImage[0][1][0][0][0]=newsupermarket.1.1
+BackImage[0][0][1][0][0]=newsupermarket.0.2
+BackImage[0][1][1][0][0]=newsupermarket.2.0
+BackImage[0][0][0][1][0]=newsupermarket.0.1
+BackImage[0][1][0][1][0]=newsupermarket.1.2

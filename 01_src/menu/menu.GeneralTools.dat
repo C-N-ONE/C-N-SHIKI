@@ -1,0 +1,17 @@
+Obj=menu
+name=GeneralTools
+copyright=Kaz_Train
+Image[0]=> menu_buttons_japan_GeneralTools.0.1	#調査ツール（経営）
+Image[1]=> menu_buttons_japan_GeneralTools.0.2	#撤去ツール（地形編集）
+Image[2]=> menu_buttons_japan_GeneralTools.0.3	#陸地を高くする（地形編集）
+Image[3]=> menu_buttons_japan_GeneralTools.0.4	#陸地を低くする（地形編集）
+Image[4]=> menu_buttons_japan_GeneralTools.0.5	#スロープを戻す（地形編集）
+Image[5]=> menu_buttons_japan_GeneralTools.0.6	#マーカー（経営）
+Image[6]=> menu_buttons_japan_GeneralTools.1.1	#変圧所をつくる（？）
+Image[7]=> menu_buttons_japan_GeneralTools.1.2	#新しい町をつくる（マップ編集）
+Image[8]=> menu_buttons_japan_GeneralTools.1.3	#木を植える（マップ編集）
+Image[9]=> menu_buttons_japan_GeneralTools.1.4	#産業チェーンをつなぐ（マップ編集）
+Image[10]=> menu_buttons_japan_GeneralTools.1.5	#プレイヤー禁止の変更（マップ編集）
+Image[11]=> menu_buttons_japan_GeneralTools.1.6	#森をつくる（マップ編集）
+Image[12]=> menu_buttons_japan_GeneralTools.1.7	#スケジュールを移動させる（マップ編集）
+Image[13]=> menu_buttons_japan_GeneralTools.1.8	#駅を公共駅にする（？）
